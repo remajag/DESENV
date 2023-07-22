@@ -3,5 +3,5 @@ Instalação do WSL no Windows:
 - wsl -install
 
 Instalação do Java:
-$ sudo apt install default-jre
-$ sudo apt install default-jdk
+-  $ sudo apt install default-jre
+-  $ sudo apt install default-jdk
